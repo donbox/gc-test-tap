@@ -1,0 +1,7 @@
+[formula]
+name = "mol-hello"
+description = "A trivial formula for testing packman"
+
+[[step]]
+name = "greet"
+prompt = "Say hello to the user."

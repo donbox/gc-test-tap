@@ -1,0 +1,8 @@
+[pack]
+name = "beta"
+version = "2.0.1"
+schema = 1
+description = "Test pack beta — a formula-only pack for exercising packman"
+
+[formulas]
+dir = "formulas"

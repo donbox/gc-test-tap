@@ -1,0 +1,3 @@
+[tap]
+name = "test-tap"
+description = "Test tap for gc-packman development"
