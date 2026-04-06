@@ -1,0 +1,10 @@
+[pack]
+name = "foo"
+version = "1.2.0"
+schema = 1
+description = "Test pack foo — a minimal pack for exercising packman"
+
+[[commands]]
+name = "about"
+description = "Show pack identity"
+script = "commands/about.sh"

@@ -1,9 +1,0 @@
-[pack]
-name = "alpha"
-version = "1.2.0"
-schema = 1
-description = "Test pack alpha — a minimal agent pack for exercising packman"
-
-[[agent]]
-name = "greeter"
-prompt_template = "prompts/greeter.md"
